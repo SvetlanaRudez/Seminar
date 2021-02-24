@@ -1,0 +1,4 @@
+# Test versjon 1
+
+
+## Antar at dette er nok tekst. 
